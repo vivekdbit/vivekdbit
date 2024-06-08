@@ -21,7 +21,11 @@ ensuring successful project outcomes</li>
 
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/vivek-raskar">
-    <img src="https://img.shields.io/badge/-vivek-raskar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
+  </a>
+  
+  <a target="_blank" href="https://www.youtube.com/@train-with-vivek">
+    <img src="https://img.shields.io/badge/-Train-with-Vivek-0077B5?style=for-the-badge&logo=YouTube&logoColor=white"></img>
   </a>
   
   <a target="_blank" href="mailto:vivek.raskar2023@gmail.com">
