@@ -1,4 +1,4 @@
-### 🤝🏻 &nbsp;Connect with Me
+# 🤝🏻 &nbsp;Connect with Me
 
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/vivek-raskar">
