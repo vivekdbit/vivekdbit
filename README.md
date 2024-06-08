@@ -41,5 +41,5 @@ ensuring successful project outcomes</li>
 
 <!--profile visit count-->
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=vivekdbit&icon=3&color=6)](https://visitcount.itsvg.in)
+  <img src="https://visitcount.itsvg.in/api?id=vivekdbit&icon=3&color=6"/>
 </div>
