@@ -33,28 +33,14 @@
 technologies</li>
     <li>Adept in leading cross-functional teams, providing guidance, coaching, mentorship to engineers, and
 ensuring successful project outcomes</li>
+    <li>I like to understand each process of development by interacting with team members as I truly believe that to build a great system it's important to understand the system</li>
   </ul>
 </div>
 
 # 🤝🏻 &nbsp;Tech Stack
-- Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,py,flask,express,nestjs,js,ts,go,wordpress" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
-  </a>
-</p>
-
-- Others
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,github,docker,vscode,postman,linux,kafka,jenkins,sentry" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,py,flask,express,nestjs,js,ts,go,wordpress,mongodb,mysql,postgresql,redis,aws,git,github,docker,vscode,postman,linux,kafka,jenkins,sentry" />
   </a>
 </p>
 
