@@ -20,12 +20,19 @@ ensuring successful project outcomes</li>
 ### 🤝🏻 &nbsp;Connect with Me
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/vivek-raskar"><img src="https://img.shields.io/badge/-Vivek-Raskar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-<a href="mailto:vivek.raskar2023@gmail.com"><img src="https://img.shields.io/badge/-Vivek.Raskar-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
-<a href="https://www.instagram.com/v2_v_i_v_e_k"><img src="https://img.shields.io/badge/-V2_vivek-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
-<a href="https://www.facebook.com/vivek.raskar.7"><img src="https://img.shields.io/badge/-Vivek Raskar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vivek-raskar">
+    <img src="https://img.shields.io/badge/-vivek-raskar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:vivek.raskar2023@gmail.com">
+    <img src="https://img.shields.io/badge/-vivek.raskar-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.instagram.com/v2_v_i_v_e_k">
+    <img src="https://img.shields.io/badge/-v2_vivek-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.facebook.com/vivek.raskar.7">
+    <img src="https://img.shields.io/badge/-vivek.raskar.7-1877F2?style=flat&logo=Facebook&logoColor=white"/>
+  </a>
 </div>
