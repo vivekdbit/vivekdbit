@@ -39,7 +39,7 @@ ensuring successful project outcomes</li>
   </ul>
 </div>
 
-### 🤝🏻 &nbsp;Tech Stack
+# 🤝🏻 &nbsp;Tech Stack
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
