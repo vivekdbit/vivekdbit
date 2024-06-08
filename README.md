@@ -39,5 +39,5 @@ ensuring successful project outcomes</li>
   </ul>
 </div>
 <div align="center">
-![](https://komarev.com/ghpvc/?username=vivekdbit)
+  [![](https://visitcount.itsvg.in/api?id=vivekdbit&icon=3&color=6)](https://visitcount.itsvg.in)
 </div>
