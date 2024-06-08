@@ -39,6 +39,28 @@ ensuring successful project outcomes</li>
   </ul>
 </div>
 
+### 🤝🏻 &nbsp;Tech Stack
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,py,flask,express,nestjs,js,ts,go,wordpress" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+  </a>
+</p>
+
+- Others
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git,github,docker,vscode,postman,linux,kafka,jenkins,sentry" />
+  </a>
+</p>
+
 <!--profile visit count-->
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=vivekdbit&icon=3&color=6"/>
