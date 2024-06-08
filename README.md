@@ -25,7 +25,7 @@ ensuring successful project outcomes</li>
   </a>
   
   <a target="_blank" href="https://www.youtube.com/@train-with-vivek">
-    <img src="https://img.shields.io/badge/-Train-with-Vivek-0077B5?style=for-the-badge&logo=YouTube&logoColor=white"></img>
+    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC6xxtS0dkDcjyvSCuagCtdQ">
   </a>
   
   <a target="_blank" href="mailto:vivek.raskar2023@gmail.com">
