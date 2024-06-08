@@ -6,5 +6,5 @@
 
 <!--- snake -->
 <div align="center">
-  ![grid-snake](https://github.com/vivekdbit/vivekdbit/assets/44405152/34a00bd5-67ee-4fee-9cd5-b3c5ef00ef4a)<div id="user-content-toc">
+  <img src="https://github.com/vivekdbit/vivekdbit/assets/44405152/34a00bd5-67ee-4fee-9cd5-b3c5ef00ef4a"/>
 </div>
