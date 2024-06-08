@@ -26,7 +26,7 @@ ensuring successful project outcomes</li>
   </ul>
 </div>
 
-# 🤝🏻 &nbsp;Tech Stack
+# &nbsp;Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,py,flask,express,nestjs,js,ts,go,wordpress,mongodb,mysql,postgresql,redis,aws,git,github,docker,vscode,postman,linux,kafka,jenkins,sentry" />
