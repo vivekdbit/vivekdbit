@@ -38,4 +38,6 @@ technologies</li>
 ensuring successful project outcomes</li>
   </ul>
 </div>
-
+<div align="center">
+![](https://komarev.com/ghpvc/?username=vivekdbit)
+</div>
