@@ -6,7 +6,7 @@
   </a>
   
   <a target="_blank" href="https://www.youtube.com/@train-with-vivek">
-    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC6xxtS0dkDcjyvSCuagCtdQ">
+    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC6xxtS0dkDcjyvSCuagCtdQ?style=for-the-badge&logo=youtube">
   </a>
   
   <a target="_blank" href="mailto:vivek.raskar2023@gmail.com">
